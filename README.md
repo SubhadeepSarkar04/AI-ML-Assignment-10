@@ -34,7 +34,6 @@ Heart-Disease-Deployment/
 ├── app.py
 ├── model.pkl
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
@@ -62,7 +61,7 @@ Heart-Disease-Deployment/
 
 ### Root Health Check Endpoint
 
-- **URL:** `GET https://mponline-assignment-10-zqlt.onrender.com/`
+- **URL:** `GET `
 
 **Response:**
 
@@ -77,7 +76,7 @@ Heart-Disease-Deployment/
 
 ### Prediction Endpoint
 
-- **URL:** `POST https://mponline-assignment-10-zqlt.onrender.com/predict`
+- **URL:** `POST `
 - **Headers:** `Content-Type: application/json`
 
 #### Example Input Payload
