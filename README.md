@@ -10,7 +10,7 @@
 
 **Email ID:** subhadeep.23bai10977@vitbhopal.ac.in
 
-**Render Deployment URL:** 
+**Render Deployment URL:** https://ai-ml-assignment-10-rwzl.onrender.com
 
 ---
 
@@ -61,7 +61,7 @@ Heart-Disease-Deployment/
 
 ### Root Health Check Endpoint
 
-- **URL:** `GET `
+- **URL:** `GET https://ai-ml-assignment-10-rwzl.onrender.com`
 
 **Response:**
 
